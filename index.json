@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "updated": "2026-10-24",
+  "note": "Bundled BUILTIN skills for VASU AI. Remote store (Settings -> Skills -> Refresh) overrides these by name.",
+  "skills": [
+    { "name": "battery-saver-routine", "description": "Jab battery kam ho — VASU battery status check karke ringer vibrate par kar deta hai.", "file": "skills/battery-saver-routine.md", "updated": "2026-10-24" },
+    { "name": "youtube-fast-play", "description": "YouTube pe koi bhi topic turant chalao — app open karke music engine se play hota hai.", "file": "skills/youtube-fast-play.md", "updated": "2026-10-24" },
+    { "name": "focus-dnd-mode", "description": "Focus mode on — distractions band, ringer vibrate, volume niche.", "file": "skills/focus-dnd-mode.md", "updated": "2026-10-24" },
+    { "name": "vasu-handsfree-guide", "description": "VASU ke saare handsfree features ka guide — wake word, sikhao macros, guardian basics.", "file": "skills/vasu-handsfree-guide.md", "updated": "2026-10-24" }
+  ]
+}
